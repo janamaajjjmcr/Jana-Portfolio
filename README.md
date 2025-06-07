@@ -1,28 +1,35 @@
-# Jana Portfolio
+# 🌐 Jana Portfolio
 
-This is a **personal portfolio website** created as an experimental project.  
-It was built to explore and practice web design concepts, with a special focus on **3D design elements**.
+Welcome to **Jana's Portfolio Website** – a simple experimental project built to practice web design and development skills.  
+It features a clean layout and includes some fun **🎨 3D design elements** for visual flair.
 
-You can view the project live here:  
-👉 [Jana Portfolio](https://janamaajjjmcr.github.io/Jana-Portfolio/)
-
-## Features
-
-- Simple and clean layout
-- 3D design integration for a more dynamic visual experience
-- Fully responsive
-
-## Notes
-
-> This project was created **just for testing and learning purposes**. It is not intended for professional or commercial use.
-
-## Technologies Used
-
-- HTML
-- CSS
-- JavaScript
-- [Three.js](https://threejs.org/) *(for 3D elements, if used)*
+🔗 **Live Demo:**  
+[👉 Click here to view the site](https://janamaajjjmcr.github.io/Jana-Portfolio/)
 
 ---
 
-Feel free to explore or use parts of the code for learning!
+## ✨ Features
+
+- 📱 Responsive layout  
+- 🧱 3D design integration  
+- 🎯 Simple and elegant design  
+
+---
+
+## 📌 Notes
+
+> ⚠️ **This project was created just for testing and learning purposes.**  
+It’s not intended for professional or commercial use.
+
+---
+
+## 🛠️ Technologies Used
+
+- 🌐 HTML  
+- 🎨 CSS  
+- ⚙️ JavaScript  
+- 🧊 *Three.js* (if used for 3D effects)
+
+---
+
+Feel free to explore and learn from it! 🚀
